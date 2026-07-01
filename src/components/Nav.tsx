@@ -95,7 +95,7 @@ export function Nav() {
                   </a>
                 ))}
                 <a
-                  href="#"
+                  href="https://app.agentdesk.co.zw/"
                   onClick={() => setOpen(false)}
                   className="rounded-lg px-3 py-2.5 transition-colors hover:bg-white/10 hover:text-accent"
                 >
